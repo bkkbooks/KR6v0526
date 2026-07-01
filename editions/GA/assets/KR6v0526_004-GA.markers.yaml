@@ -1,0 +1,59 @@
+canonical_identifier: bkk:krp/KR6v0526/GA/v1/markers/4
+seq: 4
+markers:
+  front: []
+  body:
+  - {type: line-break, offset: 0, content: '', id: KR6v0526_GA_004-b121a02, ed: GA, 'n': b121a02}
+  - {type: xml-element, offset: 0, content: '', id: KR6v0526_GA_004-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': collector}}
+  - {type: xml-element, offset: 6, content: '', id: KR6v0526_GA_004-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': collector}}
+  - {type: line-break, offset: 6, content: '', id: KR6v0526_GA_004-b121a03, ed: GA, 'n': b121a03}
+  - {type: line-break, offset: 12, content: '', id: KR6v0526_GA_004-b121a04, ed: GA, 'n': b121a04}
+  - {type: xml-element, offset: 16, content: '', id: pGA035pb121a0405, name: p, role: open, attrs: {'xml:id': pGA035pb121a0405, 'cb:place': inline}}
+  - {type: line-break, offset: 32, content: '', id: KR6v0526_GA_004-b121a05, ed: GA, 'n': b121a05}
+  - {type: line-break, offset: 52, content: '', id: KR6v0526_GA_004-b121a06, ed: GA, 'n': b121a06}
+  - {type: line-break, offset: 72, content: '', id: KR6v0526_GA_004-b121a07, ed: GA, 'n': b121a07}
+  - {type: line-break, offset: 92, content: '', id: KR6v0526_GA_004-b121a08, ed: GA, 'n': b121a08}
+  - {type: page-break, offset: 112, content: '', id: KR6v0526_GA_004-b122a, ed: GA, 'n': b122a, source_xml_id: GA035.0036.b122a}
+  - {type: line-break, offset: 112, content: '', id: KR6v0526_GA_004-b122a01, ed: GA, 'n': b122a01}
+  - {type: xml-element, offset: 124, content: '', id: pGA035pb121a0405_end, name: p, role: close, attrs: {'xml:id': pGA035pb121a0405, 'cb:place': inline}}
+  - {type: line-break, offset: 124, content: '', id: KR6v0526_GA_004-b122a02, ed: GA, 'n': b122a02}
+  - {type: xml-element, offset: 128, content: '', id: pGA035pb122a0205, name: p, role: open, attrs: {'xml:id': pGA035pb122a0205, 'cb:place': inline}}
+  - {type: line-break, offset: 144, content: '', id: KR6v0526_GA_004-b122a03, ed: GA, 'n': b122a03}
+  - {type: line-break, offset: 164, content: '', id: KR6v0526_GA_004-b122a04, ed: GA, 'n': b122a04}
+  - {type: line-break, offset: 184, content: '', id: KR6v0526_GA_004-b122a05, ed: GA, 'n': b122a05}
+  - {type: line-break, offset: 204, content: '', id: KR6v0526_GA_004-b122a06, ed: GA, 'n': b122a06}
+  - {type: line-break, offset: 224, content: '', id: KR6v0526_GA_004-b122a07, ed: GA, 'n': b122a07}
+  - {type: line-break, offset: 244, content: '', id: KR6v0526_GA_004-b122a08, ed: GA, 'n': b122a08}
+  - {type: page-break, offset: 264, content: '', id: KR6v0526_GA_004-b123a, ed: GA, 'n': b123a, source_xml_id: GA035.0036.b123a}
+  - {type: line-break, offset: 264, content: '', id: KR6v0526_GA_004-b123a01, ed: GA, 'n': b123a01}
+  - {type: xml-element, offset: 281, content: '', id: pGA035pb122a0205_end, name: p, role: close, attrs: {'xml:id': pGA035pb122a0205, 'cb:place': inline}}
+  - {type: line-break, offset: 281, content: '', id: KR6v0526_GA_004-b123a02, ed: GA, 'n': b123a02}
+  - {type: xml-element, offset: 285, content: '', id: pGA035pb123a0205, name: p, role: open, attrs: {'xml:id': pGA035pb123a0205, 'cb:place': inline}}
+  - {type: line-break, offset: 301, content: '', id: KR6v0526_GA_004-b123a03, ed: GA, 'n': b123a03}
+  - {type: line-break, offset: 321, content: '', id: KR6v0526_GA_004-b123a04, ed: GA, 'n': b123a04}
+  - {type: line-break, offset: 341, content: '', id: KR6v0526_GA_004-b123a05, ed: GA, 'n': b123a05}
+  - {type: xml-element, offset: 358, content: '', id: pGA035pb123a0205_end, name: p, role: close, attrs: {'xml:id': pGA035pb123a0205, 'cb:place': inline}}
+  - {type: line-break, offset: 358, content: '', id: KR6v0526_GA_004-b123a06, ed: GA, 'n': b123a06}
+  - {type: xml-element, offset: 362, content: '', id: pGA035pb123a0605, name: p, role: open, attrs: {'xml:id': pGA035pb123a0605, 'cb:place': inline}}
+  - {type: line-break, offset: 378, content: '', id: KR6v0526_GA_004-b123a07, ed: GA, 'n': b123a07}
+  - {type: line-break, offset: 398, content: '', id: KR6v0526_GA_004-b123a08, ed: GA, 'n': b123a08}
+  - {type: page-break, offset: 418, content: '', id: KR6v0526_GA_004-b124a, ed: GA, 'n': b124a, source_xml_id: GA035.0036.b124a}
+  - {type: line-break, offset: 418, content: '', id: KR6v0526_GA_004-b124a01, ed: GA, 'n': b124a01}
+  - {type: line-break, offset: 438, content: '', id: KR6v0526_GA_004-b124a02, ed: GA, 'n': b124a02}
+  - {type: line-break, offset: 458, content: '', id: KR6v0526_GA_004-b124a03, ed: GA, 'n': b124a03}
+  - {type: line-break, offset: 478, content: '', id: KR6v0526_GA_004-b124a04, ed: GA, 'n': b124a04}
+  - {type: xml-element, offset: 498, content: '', id: pGA035pb123a0605_end, name: p, role: close, attrs: {'xml:id': pGA035pb123a0605, 'cb:place': inline}}
+  - {type: line-break, offset: 498, content: '', id: KR6v0526_GA_004-b124a05, ed: GA, 'n': b124a05}
+  - {type: xml-element, offset: 502, content: '', id: pGA035pb124a0505, name: p, role: open, attrs: {'xml:id': pGA035pb124a0505, 'cb:place': inline}}
+  - {type: line-break, offset: 518, content: '', id: KR6v0526_GA_004-b124a06, ed: GA, 'n': b124a06}
+  - {type: line-break, offset: 538, content: '', id: KR6v0526_GA_004-b124a07, ed: GA, 'n': b124a07}
+  - {type: line-break, offset: 558, content: '', id: KR6v0526_GA_004-b124a08, ed: GA, 'n': b124a08}
+  - {type: page-break, offset: 578, content: '', id: KR6v0526_GA_004-b125a, ed: GA, 'n': b125a, source_xml_id: GA035.0036.b125a}
+  - {type: line-break, offset: 578, content: '', id: KR6v0526_GA_004-b125a01, ed: GA, 'n': b125a01}
+  - {type: line-break, offset: 598, content: '', id: KR6v0526_GA_004-b125a02, ed: GA, 'n': b125a02}
+  - {type: xml-element, offset: 615, content: '', id: pGA035pb124a0505_end, name: p, role: close, attrs: {'xml:id': pGA035pb124a0505, 'cb:place': inline}}
+  - {type: line-break, offset: 615, content: '', id: KR6v0526_GA_004-b125a03, ed: GA, 'n': b125a03}
+  - {type: page-break, offset: 615, content: '', id: KR6v0526_GA_004-b127a, ed: GA, 'n': b127a, source_xml_id: GA035.0036.b127a}
+  - {type: line-break, offset: 615, content: '', id: KR6v0526_GA_004-b127a01, ed: GA, 'n': b127a01}
+  back: []
+hash: sha256:845ddfb57d35ba967b452443c5f71033dd160cca817d413c44136dab256d9535

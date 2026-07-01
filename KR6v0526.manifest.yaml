@@ -1,0 +1,1548 @@
+canonical_identifier: bkk:krp/KR6v0526/v1
+canonical_location: https://kanripo.org/bkk/KR6v0526/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 破山興福寺志
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/GA/GA035/GA035n0036.xml
+    old_id: GA035n0036
+  edition:
+    short: bkk
+editions:
+- short: 志彙
+  label: 志彙
+  source_xml_id: wit.orig
+- short: GA
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0526_000.yaml, hash: 'sha256:f16a0aa1cca5aab4079fe3abccb1bdd3dc63ab7f0cbbc8e8d4df4437c4daa057'}
+  - {seq: 1, filename: KR6v0526_001.yaml, hash: 'sha256:df5e0c0453a805a8c2bbaf68a2dc14073c24f5176a1920c82d9814af42bc8bc4'}
+  - {seq: 2, filename: KR6v0526_002.yaml, hash: 'sha256:92dddd7e845ad1614cd92b301e3a6cb00377cc1310063b196d626d63067400b3'}
+  - {seq: 3, filename: KR6v0526_003.yaml, hash: 'sha256:fa17b8df3a2775bfc35cf495204454560b3df4e98ce5db61dc8329475637302d'}
+  - {seq: 4, filename: KR6v0526_004.yaml, hash: 'sha256:82d7112e629dca4f0ba262e50ca9b8006509f62dd537b0c1f94317abddb6b127'}
+  - {seq: 5, filename: KR6v0526_005.yaml, hash: 'sha256:db36aeb1dd9ad5c10a0feead50551c3218fe1bf3c7f40abb8f77ec1cdbcc7dd6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0526_000.markers.yaml, hash: 'sha256:8cdaac4f93bf5b546f8273680936fcb0d27ed4d2f2268689f84e2bb0610cef00'}
+  - {seq: 1, role: markers, filename: assets/KR6v0526_001.markers.yaml, hash: 'sha256:e29a14e3c0cfbf1a81e93fee528b7e54b02c5292465d0def262f1859c0f5c811'}
+  - {seq: 2, role: markers, filename: assets/KR6v0526_002.markers.yaml, hash: 'sha256:de32e2a9b29e8ad16d3c8db72f964ae90e3e20d4346a717c6710c9c05dfd3f7d'}
+  - {seq: 3, role: markers, filename: assets/KR6v0526_003.markers.yaml, hash: 'sha256:9e4e9f3abdbb9e7a29f9637b1cb551e19aa83cfd18fe09ba28ff789a5d5419bb'}
+  - {seq: 4, role: markers, filename: assets/KR6v0526_004.markers.yaml, hash: 'sha256:e96983929f43aa8cfde7c5510894c7790fa79bd13b2ba0ee482f035f038e948a'}
+  - {seq: 5, role: markers, filename: assets/KR6v0526_005.markers.yaml, hash: 'sha256:7eeb5a8ad09c380b9abb93b97054e185e909101763a35cc4da996efccd28623e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0526_GA_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 版本說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0526_GA_000-mulu-2
+    span:
+    - front
+    - 566
+    - 566
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0526_GA_000-mulu-3
+    span:
+    - front
+    - 1137
+    - 1137
+  label: 山圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0526_GA_000-mulu-4
+    span:
+    - front
+    - 1137
+    - 1137
+  label: 烏目山圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0526_GA_000-mulu-5
+    span:
+    - front
+    - 1141
+    - 1141
+  label: 興福寺圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0526_GA_000-mulu-6
+    span:
+    - front
+    - 1145
+    - 1145
+  label: 蘇先子後圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-juan-start
+    span:
+    - body
+    - 0
+    - 4614
+  label: 常熟縣破山興福寺志卷一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 破山
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-2
+    span:
+    - body
+    - 474
+    - 474
+  label: 興福寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-3
+    span:
+    - body
+    - 477
+    - 477
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-4
+    span:
+    - body
+    - 502
+    - 502
+  label: 唐破山興福寺再修功德記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-5
+    span:
+    - body
+    - 1163
+    - 1163
+  label: 唐詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-6
+    span:
+    - body
+    - 1165
+    - 1165
+  label: 常建：題破山寺後禪院
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-7
+    span:
+    - body
+    - 1519
+    - 1519
+  label: 僧清晝：晚秋破山寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-8
+    span:
+    - body
+    - 1628
+    - 1628
+  label: 吳融：送僧歸破山寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-9
+    span:
+    - body
+    - 1676
+    - 1676
+  label: 僧常達：破山山居八詠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-10
+    span:
+    - body
+    - 1685
+    - 1685
+  label: 一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-11
+    span:
+    - body
+    - 1725
+    - 1725
+  label: 二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-12
+    span:
+    - body
+    - 1766
+    - 1766
+  label: 三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-13
+    span:
+    - body
+    - 1807
+    - 1807
+  label: 四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-14
+    span:
+    - body
+    - 1848
+    - 1848
+  label: 五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-15
+    span:
+    - body
+    - 1889
+    - 1889
+  label: 六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-16
+    span:
+    - body
+    - 1930
+    - 1930
+  label: 七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-17
+    span:
+    - body
+    - 1971
+    - 1971
+  label: 八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-18
+    span:
+    - body
+    - 2012
+    - 2012
+  label: 宋詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-19
+    span:
+    - body
+    - 2014
+    - 2014
+  label: 劉拯：破山八詠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-20
+    span:
+    - body
+    - 2153
+    - 2153
+  label: 興福寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-21
+    span:
+    - body
+    - 2227
+    - 2227
+  label: 李湛：興福寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-22
+    span:
+    - body
+    - 2296
+    - 2296
+  label: 莫儔：破山
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-23
+    span:
+    - body
+    - 2360
+    - 2360
+  label: 李光：破山興福寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-24
+    span:
+    - body
+    - 2442
+    - 2442
+  label: 章康：游龍山
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-25
+    span:
+    - body
+    - 2591
+    - 2591
+  label: 元詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-26
+    span:
+    - body
+    - 2593
+    - 2593
+  label: 周霞賔：破山後院
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-27
+    span:
+    - body
+    - 2640
+    - 2640
+  label: 僧如鏡：破山寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-28
+    span:
+    - body
+    - 2686
+    - 2686
+  label: 吳訥：破山
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-29
+    span:
+    - body
+    - 2740
+    - 2740
+  label: 李傑：遊破山寺和錢世恒韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-30
+    span:
+    - body
+    - 2807
+    - 2807
+  label: 王同祖：游破山興福寺破龍澗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-31
+    span:
+    - body
+    - 2859
+    - 2859
+  label: 錢籍：遊興福寺歸途即事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-32
+    span:
+    - body
+    - 2909
+    - 2909
+  label: 楊儀：遊興福寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-33
+    span:
+    - body
+    - 2955
+    - 2955
+  label: 楊儀：贈破山寺洪上人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-34
+    span:
+    - body
+    - 3020
+    - 3020
+  label: 孫七政：春日遊破山遇雨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-35
+    span:
+    - body
+    - 3070
+    - 3070
+  label: 邵鍪：破山贈李超無得貧字
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-36
+    span:
+    - body
+    - 3137
+    - 3137
+  label: 尹嘉賔：寄破山樵者李超無三首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-37
+    span:
+    - body
+    - 3150
+    - 3150
+  label: 一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-38
+    span:
+    - body
+    - 3178
+    - 3178
+  label: 二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-39
+    span:
+    - body
+    - 3207
+    - 3207
+  label: 三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-40
+    span:
+    - body
+    - 3236
+    - 3236
+  label: 龍鬬澗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-41
+    span:
+    - body
+    - 3239
+    - 3239
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-42
+    span:
+    - body
+    - 3277
+    - 3277
+  label: 劉拯：龍鬬澗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-43
+    span:
+    - body
+    - 3340
+    - 3340
+  label: 宋高九萬：題龍山
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-44
+    span:
+    - body
+    - 3425
+    - 3425
+  label: 朱砂洞
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-45
+    span:
+    - body
+    - 3451
+    - 3451
+  label: 大澗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-46
+    span:
+    - body
+    - 3464
+    - 3464
+  label: 空心潭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-47
+    span:
+    - body
+    - 3467
+    - 3467
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-48
+    span:
+    - body
+    - 3517
+    - 3517
+  label: 劉拯：空心潭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-49
+    span:
+    - body
+    - 3570
+    - 3570
+  label: 明季箎：空心潭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-50
+    span:
+    - body
+    - 3604
+    - 3604
+  label: 空心亭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-51
+    span:
+    - body
+    - 3607
+    - 3607
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-52
+    span:
+    - body
+    - 3648
+    - 3648
+  label: 叚天祐：空心亭記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-53
+    span:
+    - body
+    - 4172
+    - 4172
+  label: 李傑：重建空心亭記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-54
+    span:
+    - body
+    - 4443
+    - 4443
+  label: 張著：分題空心亭得枝字
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-55
+    span:
+    - body
+    - 4509
+    - 4509
+  label: 御賜鍾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-56
+    span:
+    - body
+    - 4512
+    - 4512
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0526_GA_001-mulu-57
+    span:
+    - body
+    - 4561
+    - 4561
+  label: 劉拯：御賜鍾
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-juan-start
+    span:
+    - body
+    - 0
+    - 5228
+  label: 常熟縣破山興福寺志卷二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 四高僧祠
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-3
+    span:
+    - body
+    - 100
+    - 100
+  label: 宋僧居簡：破山高僧塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-4
+    span:
+    - body
+    - 173
+    - 173
+  label: 唐高僧常達塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-5
+    span:
+    - body
+    - 179
+    - 179
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-6
+    span:
+    - body
+    - 199
+    - 199
+  label: 唐吳郡破山寺常達傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-7
+    span:
+    - body
+    - 559
+    - 559
+  label: 劉拯：文舉塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-8
+    span:
+    - body
+    - 638
+    - 638
+  label: 唐高僧懷述塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-9
+    span:
+    - body
+    - 644
+    - 644
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-10
+    span:
+    - body
+    - 661
+    - 661
+  label: 劉拯：體如塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-11
+    span:
+    - body
+    - 744
+    - 744
+  label: 梁高僧彥偁塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-12
+    span:
+    - body
+    - 750
+    - 750
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-13
+    span:
+    - body
+    - 824
+    - 824
+  label: 梁蘇州破山興福寺彥偁傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-14
+    span:
+    - body
+    - 1088
+    - 1088
+  label: 附：壽闍黎傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-15
+    span:
+    - body
+    - 1175
+    - 1175
+  label: 救虎閣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-16
+    span:
+    - body
+    - 1178
+    - 1178
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-17
+    span:
+    - body
+    - 1213
+    - 1213
+  label: 劉拯：救虎閣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-18
+    span:
+    - body
+    - 1297
+    - 1297
+  label: 宋陳表：高僧彥偁塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-19
+    span:
+    - body
+    - 1333
+    - 1333
+  label: 宋高僧晤恩塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-20
+    span:
+    - body
+    - 1339
+    - 1339
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-21
+    span:
+    - body
+    - 1482
+    - 1482
+  label: 大宋杭州慈光院晤恩傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-22
+    span:
+    - body
+    - 2546
+    - 2546
+  label: 宗教院
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-23
+    span:
+    - body
+    - 2549
+    - 2549
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-24
+    span:
+    - body
+    - 2556
+    - 2556
+  label: 劉拯：宗教院
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-25
+    span:
+    - body
+    - 2627
+    - 2627
+  label: 光明菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-26
+    span:
+    - body
+    - 2630
+    - 2630
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-27
+    span:
+    - body
+    - 2691
+    - 2691
+  label: 僧仲殊：破山光明菴記
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-28
+    span:
+    - body
+    - 3229
+    - 3229
+  label: 仲殊：光明菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-29
+    span:
+    - body
+    - 3274
+    - 3274
+  label: 宋陸曦：光明菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-30
+    span:
+    - body
+    - 3312
+    - 3312
+  label: 瓔珞栢
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-31
+    span:
+    - body
+    - 3315
+    - 3315
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-32
+    span:
+    - body
+    - 3341
+    - 3341
+  label: 僧居簡：破山瓔珞栢
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-33
+    span:
+    - body
+    - 3389
+    - 3389
+  label: 白蓮池
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-34
+    span:
+    - body
+    - 3392
+    - 3392
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-35
+    span:
+    - body
+    - 3561
+    - 3561
+  label: 宋陳掞：破山寺雙頭白蓮
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-36
+    span:
+    - body
+    - 3683
+    - 3683
+  label: 尊勝石幢
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-37
+    span:
+    - body
+    - 3778
+    - 3778
+  label: 舜井
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-38
+    span:
+    - body
+    - 3805
+    - 3805
+  label: 石梅
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-39
+    span:
+    - body
+    - 3830
+    - 3830
+  label: 破山龍堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-40
+    span:
+    - body
+    - 3834
+    - 3834
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-41
+    span:
+    - body
+    - 3951
+    - 3951
+  label: 皮日休：破山龍堂記
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-42
+    span:
+    - body
+    - 4369
+    - 4369
+  label: 破山路
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-43
+    span:
+    - body
+    - 4465
+    - 4465
+  label: 宋中散大夫陸綰墓
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-44
+    span:
+    - body
+    - 4543
+    - 4543
+  label: 明中憲大夫顧玉柱墓
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0526_GA_002-mulu-45
+    span:
+    - body
+    - 4616
+    - 4616
+  label: 僧德清：吳越忠懿國王造銅阿育王舍利塔記
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-juan-start
+    span:
+    - body
+    - 0
+    - 2258
+  label: 常熟縣破山興福寺志卷三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 本朝以來重建本寺事蹟
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-2
+    span:
+    - body
+    - 16
+    - 16
+  label: 屠隆：重建破山寺碑
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-3
+    span:
+    - body
+    - 780
+    - 780
+  label: 李維楨：破山寺碑跋
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-4
+    span:
+    - body
+    - 941
+    - 941
+  label: 瞿汝稷：重修興福寺唱導文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-5
+    span:
+    - body
+    - 1408
+    - 1408
+  label: 興福寺大殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-6
+    span:
+    - body
+    - 1536
+    - 1536
+  label: 四高僧殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-7
+    span:
+    - body
+    - 1562
+    - 1562
+  label: 懶融殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-8
+    span:
+    - body
+    - 1585
+    - 1585
+  label: 韋馱殿廊廡
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-9
+    span:
+    - body
+    - 1605
+    - 1605
+  label: 四天王殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-10
+    span:
+    - body
+    - 1629
+    - 1629
+  label: 地藏殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-11
+    span:
+    - body
+    - 1654
+    - 1654
+  label: 凖提殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-12
+    span:
+    - body
+    - 1675
+    - 1675
+  label: 雲會堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-13
+    span:
+    - body
+    - 1698
+    - 1698
+  label: 東西客寮
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-14
+    span:
+    - body
+    - 1729
+    - 1729
+  label: 觀音殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-15
+    span:
+    - body
+    - 1768
+    - 1768
+  label: 觀堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-16
+    span:
+    - body
+    - 1790
+    - 1790
+  label: 方丈
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-17
+    span:
+    - body
+    - 1808
+    - 1808
+  label: 齋堂　庫房　香積厨　茶寮
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-18
+    span:
+    - body
+    - 1822
+    - 1822
+  label: 三門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-19
+    span:
+    - body
+    - 1837
+    - 1837
+  label: 龍澗橋
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-20
+    span:
+    - body
+    - 1858
+    - 1858
+  label: 東房
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-21
+    span:
+    - body
+    - 1916
+    - 1916
+  label: 西房
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-22
+    span:
+    - body
+    - 1946
+    - 1946
+  label: 興福寺外三門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-23
+    span:
+    - body
+    - 1952
+    - 1952
+  label: 茶菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-24
+    span:
+    - body
+    - 1973
+    - 1973
+  label: 日居菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-25
+    span:
+    - body
+    - 1990
+    - 1990
+  label: 高林菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-26
+    span:
+    - body
+    - 2004
+    - 2004
+  label: 團瓢
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-27
+    span:
+    - body
+    - 2016
+    - 2016
+  label: 高僧墓
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-28
+    span:
+    - body
+    - 2049
+    - 2049
+  label: 菜園
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-29
+    span:
+    - body
+    - 2099
+    - 2099
+  label: 山場
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0526_GA_003-mulu-30
+    span:
+    - body
+    - 2124
+    - 2124
+  label: 僧田
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0526_GA_004-juan-start
+    span:
+    - body
+    - 0
+    - 615
+  label: 常熟縣破山興福寺志卷四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0526_GA_004-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 本朝名僧事畧
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0526_GA_004-mulu-2
+    span:
+    - body
+    - 12
+    - 12
+  label: 海舟禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0526_GA_004-mulu-3
+    span:
+    - body
+    - 124
+    - 124
+  label: 無著禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0526_GA_004-mulu-4
+    span:
+    - body
+    - 281
+    - 281
+  label: 鉢菴法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0526_GA_004-mulu-5
+    span:
+    - body
+    - 358
+    - 358
+  label: 洞聞禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0526_GA_004-mulu-6
+    span:
+    - body
+    - 498
+    - 498
+  label: 等慈禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0526_GA_005-juan-start
+    span:
+    - body
+    - 0
+    - 878
+  label: 常熟縣破山興福寺志卷五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0526_GA_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 康熈三十二年癸酉上元日，吳郡司馬李繼勳：重修大雄殿募疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0526_GA_005-mulu-2
+    span:
+    - body
+    - 436
+    - 436
+  label: 重脩興福大雄殿記異
+  type: mulu
+  level: 1
+hash: sha256:37a8ace3b679b015415e0b5c57942b52922b64dc77fb381846baa46404209d5f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
